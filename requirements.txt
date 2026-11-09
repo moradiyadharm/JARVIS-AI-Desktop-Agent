@@ -1,0 +1,12 @@
+customtkinter
+python-dotenv
+google-genai
+faster-whisper
+sounddevice
+numpy
+piper-tts
+psutil
+pyautogui
+pyperclip
+pydantic
+pytest

@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs and local data
+logs/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+settings.json
+screenshots/
+
+# Voice/model assets (download separately; do not push large models)
+voices/
+models/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
